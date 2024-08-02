@@ -1,10 +1,10 @@
 # Hello, I'm T34 👋
 
 ## Who I Am
-🚀 Seasoned Full-stack Developer
-💼 Experienced in building high-impact products
-🌟 Passionate about sharing knowledge and best practices
-📚 Lifelong learner, constantly evolving with technology
+🚀 Seasoned Full-stack Developer  
+💼 Experienced in building high-impact products  
+🌟 Passionate about sharing knowledge and best practices  
+📚 Lifelong learner, constantly evolving with technology  
 
 ## My Tech Stack
 - 💻 Go
@@ -15,10 +15,10 @@
 - 🔄 CI/CD
 
 ## What I Do
-🛠️ Architecting scalable and efficient solutions across the full stack
-📚 Developing and sharing industry-leading best practices and design patterns
-🏗️ Engineering robust starter templates to accelerate project development
-🔄 Optimizing development workflows for maximum productivity and code quality
+🛠️ Architecting scalable and efficient solutions across the full stack  
+📚 Developing and sharing industry-leading best practices and design patterns  
+🏗️ Engineering robust starter templates to accelerate project development  
+🔄 Optimizing development workflows for maximum productivity and code quality  
 
 ## Projects
 - [react-ssr-starter](https://github.com/t34-dev/react-ssr-starter): A repository with a large set of pre-configured packages for quick start of projects with and without SSR support.

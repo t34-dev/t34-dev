@@ -8,7 +8,7 @@
 
 ## My Tech Stack
 - 💻 Go
-- ⚛️ React
+- ⚛️ React.js
 - 📦 Node.js
 - 🐘 PostgreSQL
 - 🍃 MongoDB

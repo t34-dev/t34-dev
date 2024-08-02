@@ -1,4 +1,4 @@
-# Hello, I'm T34 👋
+# Hello 👋
 
 ## Who I Am
 🚀 Seasoned Full-stack Developer  

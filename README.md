@@ -21,9 +21,9 @@
 🔄 Optimizing development workflows for maximum productivity and code quality  
 
 ## Projects
-- [react-ssr-starter](https://github.com/t34-developer/react-ssr-starter): A repository with a large set of pre-configured packages for quick start of projects with and without SSR support.
-- [ts-package-starter](https://github.com/t34-developer/ts-package-starter): A package for quick creation of custom packages.
-- [node-ts-starter](https://github.com/t34-developer/node-ts-starter): A package for quick start of backend projects on Node.js.
+- [react-ssr-starter](https://github.com/t34-dev/react-ssr-starter): A repository with a large set of pre-configured packages for quick start of projects with and without SSR support.
+- [ts-package-starter](https://github.com/t34-dev/ts-package-starter): A package for quick creation of custom packages.
+- [node-ts-starter](https://github.com/t34-dev/node-ts-starter): A package for quick start of backend projects on Node.js.
 
 ## A Bit About Me
 🌟 Passionate about IT and everything related to it  
@@ -31,6 +31,6 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t34-developer&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t34-dev&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t34-developer&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t34-dev&layout=compact&theme=tokyonight)

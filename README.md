@@ -21,11 +21,15 @@
 🔄 Optimizing development workflows for maximum productivity and code quality  
 
 ## Projects
+**React**
 - [react-ssr-starter](https://github.com/t34-dev/react-ssr-starter): A repository with a large set of pre-configured packages for quick start of projects with and without SSR support.
 - [ts-package-starter](https://github.com/t34-dev/ts-package-starter): A package for quick creation of custom packages.
 - [node-ts-starter](https://github.com/t34-dev/node-ts-starter): A package for quick start of backend projects on Node.js.
+
+**GO**
 - [go-grpc-pool](https://github.com/t34-dev/go-grpc-pool): A package provides a connection pool for gRPC clients
 - [go-pad-alignment](https://github.com/t34-dev/go-pad-alignment): Application for aligning fields in structures
+- [go-text-replacer](https://github.com/t34-dev/go-text-replacer): Replacing content in one iteration
   
 
 ## A Bit About Me

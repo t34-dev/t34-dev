@@ -28,7 +28,7 @@
 
 **GO**
 - [go-grpc-pool](https://github.com/t34-dev/go-grpc-pool): A package provides a connection pool for gRPC clients
-- [go-pad-alignment](https://github.com/t34-dev/go-pad-alignment): Application for aligning fields in structures
+- [go-field-alignment](https://github.com/t34-dev/go-field-alignment): Application for aligning fields in structures
 - [go-text-replacer](https://github.com/t34-dev/go-text-replacer): Replacing content in one iteration
   
 

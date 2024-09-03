@@ -28,8 +28,9 @@
 
 **GO**
 - [go-grpc-pool](https://github.com/t34-dev/go-grpc-pool): A package provides a connection pool for gRPC clients
-- [go-field-alignment](https://github.com/t34-dev/go-field-alignment): Application for aligning fields in structures
+- [go-svc-starter](https://github.com/t34-dev/go-svc-starter): A package for quickly starting a microservice.
 - [go-text-replacer](https://github.com/t34-dev/go-text-replacer): Replacing content in one iteration
+- [go-field-alignment](https://github.com/t34-dev/go-field-alignment): Application for aligning fields in structures
   
 
 ## A Bit About Me

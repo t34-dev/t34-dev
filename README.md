@@ -35,7 +35,7 @@
 
 ## A Bit About Me
 🌟 Passionate about IT and everything related to it  
-📚 Constantly learning new things
+📚 Constantly learning new things.
 
 ## GitHub Stats
 

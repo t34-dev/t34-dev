@@ -40,5 +40,4 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t34-dev&show_icons=true&theme=tokyonight)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t34-dev&layout=compact&theme=tokyonight)

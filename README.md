@@ -48,5 +48,10 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t34-dev&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t34-dev&layout=compact&theme=tokyonight)
+[![Profile Details](https://raw.githubusercontent.com/t34-dev/t34-dev/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/t34-dev)
+
+[![Stats](https://raw.githubusercontent.com/t34-dev/t34-dev/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/t34-dev)
+[![Top Languages by Commit](https://raw.githubusercontent.com/t34-dev/t34-dev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/t34-dev)
+
+[![Repos per Language](https://raw.githubusercontent.com/t34-dev/t34-dev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/t34-dev)
+[![Productive Time](https://raw.githubusercontent.com/t34-dev/t34-dev/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/t34-dev)

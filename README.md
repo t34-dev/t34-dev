@@ -26,6 +26,8 @@
 **Tools**
 - [claude-statusline](https://github.com/t34-dev/claude-statusline): Rich status line for Claude Code with rate limit countdown, context usage, git info. Install: `npx @t34-dev/claude-statusline`
 
+  ![claude-statusline preview](https://raw.githubusercontent.com/t34-dev/claude-statusline/main/screenshot.png)
+
 **Apps**
 - [whispro](https://github.com/t34-dev/whispro): Cross-platform voice-to-text desktop app (Tauri v2 + Rust + React). Offline, hotkey-driven.
 
